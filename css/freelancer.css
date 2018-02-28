@@ -371,6 +371,10 @@ a:focus, a:hover, a:active {
   color: #00111A !important;
 }
 
+.bg-white {
+  background-color: #B4C1C8 !important;
+}
+
 .btn-primary {
   background-color: #004C49;
   border-color: #004C49;
